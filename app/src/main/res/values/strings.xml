@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Финансы</string>
+    <string name="operations_tab_text">Операции</string>
+    <string name="statistics_tab_text">Статистика</string>
+    <string name="balance_text">Баланс:</string>
+    <string name="inflow_categories_text">Приход денежных средств</string>
+    <string name="outflow_categories_text">Расход денежных средств</string>
+    <string name="add_category_button_text">Добавить категорию</string>
+    <string name="add_category_dialog_title_text">Добавить категорию</string>
+    <string name="add_category_dialog_text">Введите название категории</string>
+    <string name="add_category_dialog_cancel_button_text">Отмена</string>
+    <string name="add_category_dialog_add_button_text">Добавить</string>
+    <string name="monetary_amount_text">Сумма:</string>
+    <string name="operation_date">Дата операции:</string>
+    <string name="add_operation_button_text">Добавить операцию</string>
+    <string name="add_operation_dialog_title_text">Добавить операцию</string>
+    <string name="add_operation_dialog_text">Введите сумму операции</string>
+    <string name="add_operation_dialog_cancel_button_text">Отмена</string>
+    <string name="add_operation_dialog_add_button_text">Добавить</string>
+    <string name="inflow_week_statistics_text">Приход с начала недели:</string>
+    <string name="inflow_month_statistics_text">Приход с начала месяца:</string>
+    <string name="inflow_year_statistics_text">Приход с начала года:</string>
+    <string name="outflow_week_statistics_text">Расход с начала недели:</string>
+    <string name="outflow_month_statistics_text">Расход с начала месяца:</string>
+    <string name="outflow_year_statistics_text">Расход с начала года:</string>
+
+    <string-array name="months">
+        <item>Я</item>
+        <item>Ф</item>
+        <item>М</item>
+        <item>А</item>
+        <item>М</item>
+        <item>И</item>
+        <item>И</item>
+        <item>А</item>
+        <item>С</item>
+        <item>О</item>
+        <item>Н</item>
+        <item>Д</item>
+    </string-array>
+
+    <string-array name="default_inflow_operations">
+        <item>Зарплата</item>
+    </string-array>
+
+    <string-array name="default_outflow_operations">
+        <item>Питание</item>
+        <item>Медицина</item>
+    </string-array>
+</resources>
